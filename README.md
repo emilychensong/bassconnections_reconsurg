@@ -36,4 +36,4 @@ GitHub for version control and documentation
 
 📢 Acknowledgments
 
-This work is part of the Bass Connections project at Duke University, under the guidance of faculty mentors and in collaboration with healthcare professionals. I would especially like to thank Elaine Lin and Dr. Frances Hasso for their mentorship.
+This work is part of the Bass Connections project at Duke University, under the guidance of faculty mentors and in collaboration with healthcare professionals. I would especially like to thank Elaine Lin, Dr. Frances Hasso, and Dr. Pranav Haravu for their mentorship.
